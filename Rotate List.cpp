@@ -18,7 +18,7 @@ public:
             ++len;
             ptr=ptr->next;
         }
-        if (!len)return head;
+        if (!len)return head;//forgot to judge oringinal list is NULL
         k%=len;
         if (!k)return head;
         int c=len-k;
