@@ -2,7 +2,28 @@ leetcode
 ========
 
 This responsibility is a practice area for leetcode problems.
-It not only focuse on solving but also different solutions.
+It not only focus on solving but also different solutions.
+
+Furthermore, this responsibility is mainly for different implemention of problem's on leetcode.
+For example, traversing a tree
+1)DFS and BFS are considered as TWO different solutions
+2)DFS by recursion and DFS by stack are considered as ONE solution, but TWO different implementions.
+
+As we know, when interview, for a problem, the requirement are higher than it in programming contests, we only
+, in programming contests, we only care the algorithm complexity and correctness, but when in interview, the interviewer
+often ask other question, especially about the different implemention and solution. For example, he may ask you whether you can
+implement without define this varable, change recursion to stack, traverse without queue, do not use vector, etc.
+
+And if you practice leetcode just like other online judges, just submit and get Accepted, then throw it away, it's hard
+to prepare these questions. Actually, different from complexity and correctness,
+the implemention and solution doesn't have a BEST one and judging standard, for example, when you give interviewer an algorithm
+with best complexity, he may not let you to optimize, and when you give interviewer a code without bug, he may not let you to fix.
+but no matter what solution or implementions you give, he may still want you to change to the one he want.
+
+You can discuss the implemention and solution together here, broaden your horizon by view other's code. Maybe it's the best way
+to overcome these problems.
+
+
 
 For more
 ========
