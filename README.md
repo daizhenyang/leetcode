@@ -23,7 +23,7 @@ with best complexity, he may not let you to optimize, and when you give intervie
 but no matter what solution or implementions you give, he may still want you to change to the one he want.
 
 You can discuss the implemention and solution together here, broaden your horizon by view other's code. Maybe it's the best way
-to overcome these problems.
+to deal with these problems.
 
 
 
