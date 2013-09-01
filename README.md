@@ -16,7 +16,7 @@ As we know, when interview, for a problem, the requirement are higher than it in
 often ask other question, especially about the different implemention and solution. For example, he may ask you whether you can
 implement without define this auxiliary varable, change recursion to stack, traverse without queue, do not use vector, etc.
 
-And if you practice leetcode just like other online judges, just submit and get Accepted, then throw it away, it's hard
+And if you practice leetcode just like other online judges, just submit and get Accepted, then throw it away, you're unable
 to prepare these questions. Actually, different from complexity and correctness,
 the implemention and solution doesn't have a BEST one and judging standard, for example, when you give interviewer an algorithm
 with best complexity, he may not let you to optimize, and when you give interviewer a code without bug, he may not let you to fix.
