@@ -6,7 +6,9 @@ It not only focus on solving but also different solutions.
 
 Furthermore, this responsibility is mainly for different implemention of problem's on leetcode.
 For example, traversing a tree
+
 1)DFS and BFS are considered as TWO different solutions
+
 2)DFS by recursion and DFS by stack are considered as ONE solution, but TWO different implementions.
 
 As we know, when interview, for a problem, the requirement are higher than it in programming contests, we only
