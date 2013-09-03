@@ -12,6 +12,8 @@ About different between solution and implemention, For example, traversing a tre
 
 2)DFS by recursion and DFS by stack are considered as ONE solution, but TWO different implementions.
 
+However, they both have BEST time complexity and space complexity.
+
 As we know, when interview, for a problem, the requirement are higher than it in programming contests, in programming contests, we only care the algorithm complexity and program correctness, but when in interview, the interviewer
 often ask other question, especially about the different implemention and solution. For example, he may ask you whether you can
 implement without define this auxiliary varable, change recursion to stack, traverse without queue, do not use vector, etc.
