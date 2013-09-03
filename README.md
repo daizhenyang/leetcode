@@ -16,7 +16,7 @@ However, they both have BEST time complexity and space complexity.
 
 As we know, when interview, for a problem, the requirement are higher than it in programming contests, in programming contests, we only care the algorithm complexity and program correctness, but when in interview, the interviewer
 often ask other question, especially about the different implemention and solution. For example, he may ask you whether you can
-implement without define this auxiliary varable, change recursion to stack, traverse without queue, do not use vector, etc.
+implement without define this auxiliary varable, change recursion to stack, traverse without two queues, do not use vector, etc.
 
 And if you practice leetcode just like other online judges, just submit and get Accepted, then throw it away, you're unable
 to prepare these questions. Actually, different from complexity and correctness,
