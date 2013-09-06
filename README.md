@@ -1,10 +1,10 @@
 leetcode
 ========
 
-This responsibility is a practice area for leetcode problems.
+This repository is a practice area for leetcode problems.
 It not only focus on solving but also different solutions.
 
-Furthermore, this responsibility is mainly for different implemention of problem's on leetcode.
+Furthermore, this repository is mainly for different implemention of problem's on leetcode.
 
 About different between solution and implemention, For example, traversing a tree
 
